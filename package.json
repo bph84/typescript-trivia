@@ -1,0 +1,17 @@
+{
+  "name": "typescript-trivia",
+  "version": "1.0.0",
+  "description": "Trivial typescript to remind me how it works and how it's different from modern JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "tsc-watch": "tsc-watch"
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.8.3"
+  }
+}
